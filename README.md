@@ -1,6 +1,6 @@
 # Projeto de Algoritmos e Estruturas de Dados
 
-Este projeto é um Gerenciador de Biblioteca de Jogos de Videogame desenvolvido em C. Ele cumpre os requisitos da Atividade Avaliativa da Unidade II, utilizando listas ligadas, algoritmos de ordenação (Merge Sort) e busca (Busca Binária), manipulação de arquivos e modularização de código.
+Este projeto é um Gerenciador de Biblioteca de Jogos de Videogame desenvolvido em c, utilizando listas ligadas, algoritmos de ordenação (Merge Sort) e busca (Busca Binária), manipulação de arquivos e modularização de código.
 
 ## Funcionalidades
 
