@@ -21,6 +21,9 @@ Este projeto é um Gerenciador de Biblioteca de Jogos de Videogame desenvolvido 
     * Calcular o valor total em reais da biblioteca de jogos.
     * Contar o número total de jogos na biblioteca.
 
+## Criação de arquivos
+   Não é necessário se preocupar com criar os arquivos, o código é responsável pela criação automática.
+   
 ## Como Compilar e Executar
 
 O projeto foi escrito em C e pode ser compilado com o GCC. No terminal, navegue até a pasta do projeto e execute o seguinte comando:
